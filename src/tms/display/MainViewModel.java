@@ -89,7 +89,7 @@ public class MainViewModel {
      * @ass2 View-Model code for A2.
      */
     public void save(String filename) {
-        // TODO: Implement logic to save network data to a file.
+       
     }
 
     /**
@@ -114,7 +114,7 @@ public class MainViewModel {
      * @ass2 View-Model code for A2.
      */
     public void togglePaused() {
-        // TODO: Implement logic to toggle whether simulation is paused or not.
+       
     }
 
     /**
